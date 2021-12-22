@@ -1,0 +1,44 @@
+class QuestionData {
+
+#data = [
+{
+question: "Choose the correct answers from the below?",
+a: "Javascript is an extension of the Java programming language",
+b: "Javascript is a scripting language but not an object-oriented language",
+c: "Javascript is used for manipulating the DOM(Document Object Model) elements of the HTML WebPage",
+d: "Javascript is used for form validation only on client-side web applications and it cannot be used on server side",
+answer: "c",
+},
+{
+question: "Javascript is _ language?",
+a: "Dynamic computer programming language",
+b: "Javascript is an object-oriented programming language",
+c: "Javascript is a Scripting language",
+d: "All the Above",
+answer: "d"
+},
+{
+question: "What is the correct file extension for Javascript files?",
+a: ".java",
+b: ".js",
+c: ".javascript",
+d: ".script",
+answer: "b"
+},
+{
+question: "Which of the following is the correct syntax to display “Topzenith.com” in an alert box using JavaScript?",
+a: "alertbox(“topzenith.com”);",
+b: "msgbox(“Topzenith.com”);",
+c: " alert(“Topzenith.com”);",
+d: "msg(“topzenith.com”);",
+answer: "c"
+},
+{
+question: "What is the output of below? 33 == 33.0",
+a: "False",
+b: "33",
+c: "True",
+d: "None of the above",
+answer: "c"
+}
+]
