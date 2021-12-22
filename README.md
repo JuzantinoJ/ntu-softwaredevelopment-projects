@@ -1,8 +1,9 @@
 # ntu-softwaredevelopment-projects
 
-My Projects for Software Development Course
+# My Projects for Software Development Course
 
-<!-- Create a 10 questions quiz app with javascript answers
+<!-- /*Create a 5 questions quiz app with javascript answers
+>>>>>>> 7c479d16fe08eb97d506134227991119b19f8845
 1. Quiz will include a quiestions that will be hidden and once the start button is clicked the quiz will start.
 
 2. In the quiz there will be a question and 4 answers and only 1 is the correct answer. When user pick the answer, if the answer is correct, button will show green. If the answer is wrong it will show red.
